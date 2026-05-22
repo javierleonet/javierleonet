@@ -1,7 +1,7 @@
 - 👋 Hola, Soy @javierleonet
-- 👀 I’m interested in 
-- 🌱 I’m currently learning php, html, css
-- 💞️ I’m looking to collaborate on wordpress
+- 👀 Estoy interesado en 
+- 🌱 Desarrollo en php, html, css, dart, flutter
+- 💞️ Puedo colaborar en proyectos de wordpress
 - 📫 Contáctame +584243054798
 
 <!---
